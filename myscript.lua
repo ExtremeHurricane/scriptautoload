@@ -1,6 +1,6 @@
 script_name("aboba")
 script_author("ExtremeHurricane")
-script_version("0.01")
+script_version("0.02")
 
 local enable_autoupdate = true
 local autoupdate_loaded = false
